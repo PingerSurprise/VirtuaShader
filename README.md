@@ -3,7 +3,7 @@ VirtuaShader is a shader that simulates the limitations of late 90's 3D video ga
 
 It helps achieving a highly accurate look of retro games on individual objects and avatars, without the use of screen-space effects for maximum comfort in VR. Specifically compatible with VRChat, although it can be used for anything.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/si=9p_LI1vDQeBSzJmM/0.jpg)](https://youtu.be/99RkMTL0J20?si=9p_LI1vDQeBSzJmM "Video Title")
+[![Demo](https://i.ytimg.com/vi/99RkMTL0J20/maxresdefault.jpg)](https://youtu.be/99RkMTL0J20 "Demo")
 
 # Before reading...
 Thank you for your interest in VirtuaShader!
