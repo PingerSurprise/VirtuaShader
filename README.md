@@ -26,7 +26,7 @@ And more fun stuff!
 - World version with GI support
 
 # Disclaimer
-This page and the Gumroad page are the only places to get the original files officially. For your safety, do NOT try downloading the files from a different web page or a private conversation.
+This page and the [Gumroad page](https://cyberfkngoats.gumroad.com/l/virtuashader) are the only places to get the original files officially. For your safety, do NOT try downloading the files from a different web page or a private conversation.
 
 Do NOT redistribute the files, please share a direct link to this page instead.
 
