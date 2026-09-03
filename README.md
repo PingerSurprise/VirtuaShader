@@ -1,4 +1,6 @@
 # VirtuaShader
+Download link is in the [Releases](https://github.com/PingerSurprise/VirtuaShader/releases) page.
+
 ### Demo (click to view)
 [![Demo](https://i.ytimg.com/vi/99RkMTL0J20/maxresdefault.jpg)](https://youtu.be/99RkMTL0J20 "Demo")
 
