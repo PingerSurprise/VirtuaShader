@@ -37,5 +37,3 @@ Do NOT redistribute the files, please share a direct link to this page instead.
 
 # Credits
 Demo music by System ST91
-
-<meta name="google-site-verification" content="zDYfqFUBjeAx70KLw9XNx1l5bHBgonVYKL9dcgLxylk" />
